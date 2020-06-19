@@ -4,6 +4,9 @@ Por lo tanto, ¡oh Cristiandad! la cruz diaria,
 siendo tanto en aquel tiempo como ahora el único camino hacia la gloria,
 será de gran ventaja para su alma considerar seriamente:
 
+[.numbered-group]
+====
+
 [.numbered]
 _Primero:_ ¿Qué es la cruz de Cristo?
 
@@ -15,6 +18,8 @@ _Tercero:_ ¿Cómo y de qué manera se debe cargar?
 
 [.numbered]
 _Cuarto:_ ¿Cuál es la gran obra y asunto de la cruz?
+
+====
 
 En cuanto a lo primero--¿Qué es la cruz de Cristo?
 La cruz de Cristo es una metáfora tomada del madero externo, o cruz de madera,
