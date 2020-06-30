@@ -1,5 +1,6 @@
 == Capítulo I
 
+[.chapter-subtitle--blurb]
 Contiene Una Breve Reseña de las Diferentes Dispensaciones de Dios en el Mundo,
 hasta el Tiempo en que Le Plació Levantar al Pueblo Llamado Cuáqueros.
 
@@ -232,10 +233,10 @@ El tiempo de la reforma dio algunos pasos hacia ello,
 tanto en la doctrina como en la adoración y en la práctica.
 Pero cualquier avance en la práctica fracasaba rápidamente;
 porque la iniquidad fluía libremente, tanto entre los profesantes^
-footnote:[La palabra profesantes se usa a través de este libro
+footnote:[La palabra __profesantes__ se usa a través de este libro
 para referirse a uno que profesa o afirma una creencia en Cristo.
 De la misma manera,
-la profesión de una persona se refiera a lo que ellos creen o profesan como la verdad,
+la _profesión_ de una persona se refiera a lo que ellos creen o profesan como la verdad,
 y no está relacionado con su empleo.]
 de la reforma como entre aquellos de quienes ellos salieron;
 de modo que por los frutos de su conducta no podían distinguirse.
@@ -382,8 +383,8 @@ Esto hizo que el pecado sobreabundara por la abundancia de la gracia,
 pues convirtió la gracia de Dios en libertinaje,^
 footnote:[Judas 1:4]
 al ofrecer un pretexto para pecar más seguro que antes--como
-si Cristo no hubiera venido a salvarnos de nuestros pecados,
-sino en nuestros pecados; no a quitar el pecado,
+si Cristo no hubiera venido a salvarnos _de_ nuestros pecados,
+sino _en_ nuestros pecados; no a _quitar_ el pecado,
 sino para que pudiéramos pecar más libremente a Su cargo,
 y con menos peligro para nosotros mismos.
 Este engaño atrapó a muchos y los llevó a sufrir una profunda

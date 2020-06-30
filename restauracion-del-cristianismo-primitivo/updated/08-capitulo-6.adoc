@@ -1,5 +1,6 @@
 == Capítulo VI
 
+[.chapter-subtitle--blurb]
 Con Respecto a la Verdadera Adoración de Dios y al Verdadero Ministerio,
 que es por Su Espíritu.
 
@@ -126,7 +127,7 @@ y palparon nuestras manos, eso os anunciamos,
 para que también vosotros tengáis comunión con nosotros;
 y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo.`"^
 footnote:[1 Juan 1:1-3]
-Yo digo, si los ministros de Cristo son Sus testigos, ellos deben conocer lo que hablan;
+Yo digo, si los ministros de Cristo son Sus testigos, ellos deben _conocer_ lo que hablan;
 es decir,
 deben haber experimentado y pasado a través de los diversos
 estados y condiciones acerca de los cuales predican,
@@ -162,12 +163,14 @@ vivos de Su poder y bondad en sus propias almas.
 Entonces podrán contarles a otros lo que Dios ha hecho por ellos,
 lo cual es la raíz y fundamento de todo ministro verdadero, y aquello que Dios bendice.
 
+[.discourse-part]
 Objeción:
 Pero ¿acaso no tiende este tipo de ministerio y adoración
 hacer que algunas personas sean ociosas,
 y a levantar el orgullo espiritual en otros?
 Y, ¿acaso no da ocasión para grandes problemas e impiedad?
 
+[.discourse-part]
 Respuesta: De ninguna manera,
 porque el fin de todas las palabras es llevar a las personas a la gran Palabra,
 Jesucristo, y entonces se cumple la promesa de Dios,
@@ -223,12 +226,14 @@ a través de la luz de Su Palabra y Espíritu en sus corazones,
 menos necesidad tendrán de medios externos.
 Porque el profeta escribe:
 
-"`El sol nunca más te servirá de luz para el día,
+[quote.scripture, , Isaías 16:19-20]
+____
+El sol nunca más te servirá de luz para el día,
 ni el resplandor de la luna te alumbrará; sino que el Señor te será por luz perpetua,
 y el Dios tuyo por tu gloria.
 No se pondrá jamás tu sol, ni menguará tu luna: porque te será el Señor por luz perpetua,
-y los días de tu luto serán acabados.`"^
-footnote:[Isaías 60:19-20 RV1602P]
+y los días de tu luto serán acabados.`
+____
 
 Todos sostienen esto como una promesa del Evangelio,
 y generalmente se entiende que aquí el sol y la luna

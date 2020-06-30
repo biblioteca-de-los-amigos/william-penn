@@ -1,5 +1,6 @@
 == Capítulo II
 
+[.chapter-subtitle--blurb]
 El Primer Instrumento, y el Surgimiento del Pueblo llamado Cuáqueros.
 
 Fue en este mismo tiempo que al Dios eterno,
@@ -529,7 +530,7 @@ necesaria y provechosa para el alma.
 
 En cuarto lugar,
 dirigían a las personas a un don o Semilla que estaba
-en sí mismos (aunque no provenía de sí mismos),
+_en_ sí mismos (aunque no provenía _de_ sí mismos),
 por la que todo lo que afirmaban,
 predicaban y exhortaban podía ser obrado en ellos y ser conocido por experiencia.
 Esto realmente es una marca importante y distintiva de la verdad de su ministerio,
@@ -636,8 +637,8 @@ y cómo algunas veces sufrieron hasta la muerte, con palizas, golpes,
 y encarcelamientos largos y abarrotados de gente en calabozos inmundos.
 Cuatro de ellos en Nueva Inglaterra murieron en manos de verdugos,^
 footnote:[William Robinson, Marmaduke Stevenson, Mary Dyer y William Leddra.
-Véase La Historia del Surgimiento,
-Aumento y Progreso de ese Pueblo Cristiano llamado Cuáqueros de William Sewel.]
+Véase [.book-title]#La Historia del Surgimiento,
+Aumento y Progreso de ese Pueblo Cristiano llamado Cuáqueros de William Sewel#.]
 solo por predicar entre el pueblo de Boston.
 Sin mencionar los destierros y despojos excesivos
 de bienes y propiedades en casi todas partes,

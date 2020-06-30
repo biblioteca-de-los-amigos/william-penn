@@ -1,5 +1,6 @@
 == Capítulo VIII
 
+[.chapter-subtitle--blurb]
 Varias Exhortaciones
 
 Y ahora, Amigos, ustedes que profesan andar en este camino,
@@ -194,7 +195,7 @@ Y de este modo,
 poco a poco arrastrarán a otros y harán que dejen
 de esperar en el don de Dios en sí mismos,
 y de sentirlo obrando en otros (para su fortalecimiento y refrescamiento),
-para que esperen por ellos, y así volverse de Dios al hombre otra vez.
+para que esperen por _ellos,_ y así volverse de Dios al hombre otra vez.
 Estos naufragan en cuanto a esa fe que ha sido una vez dada a los santos,
 y en cuanto a una buena conciencia hacia Dios,
 que solo se mantienen por ese don divino de vida que primero engendra la fe,
@@ -320,7 +321,7 @@ Sus padres no son más que carne,
 y solo pueden engendrarlos en la semejanza del primer Adán;
 pero ustedes deben ser engendrados en la semejanza
 del segundo Adán por medio de un nacimiento espiritual,
-o no serán (no pueden ser) Sus hijos ni Su descendencia.
+o no serán (no _pueden_ ser) Sus hijos ni Su descendencia.
 
 Por lo tanto, examínense cuidadosamente, ¡Oh, hijos de los hijos de Dios!
 Consideren su fundamento, y vean lo que realmente son en relación a este parentesco,
@@ -407,7 +408,8 @@ Así las canas de sus queridos padres, que aún viven, descenderán a la tumba c
 sabiendo que el Espíritu y naturaleza que han conocido
 y amado vivirá en ustedes cuando se hayan ido.
 
-* * * * *
+[.asterism]
+'''
 
 Concluiré este capítulo con unas pocas palabras dirigidas
 a aquellos que no son de nuestra comunidad,
@@ -501,7 +503,7 @@ porque no es nuestra por naturaleza, sino por fe y adopción; es el don de Dios.
 Pero, aun así,
 aunque no es nuestra justicia en el sentido de que es o viene de nosotros mismos,
 (porque en ese sentido es de Cristo, al ser siempre de Él y viniendo de Él), sin embargo,
-es nuestra, y tiene que ser nuestra en posesión, eficacia y experiencia,
+_es_ nuestra, y _tiene que ser nuestra_ en posesión, eficacia y experiencia,
 para poder hacernos algún bien; de lo contrario,
 la justicia de Cristo no nos será de ningún provecho.
 Fue de esta manera que Él fue hecho para los primeros cristianos su "`justicia,
@@ -568,16 +570,17 @@ Ustedes deben caminar a través de una senda de aflicción
 a la ciudad de Dios que tiene fundamentos eternos,
 si realmente desean llegar.
 
+[.offset]
 ¿Y que hará esta bendita luz por ustedes?
 Se los diré:
 
-Primero, les mostrará cómo el hombre ha caído de Dios,
+_Primero,_ les mostrará cómo el hombre ha caído de Dios,
 y el estado miserable en el que se encuentra.
 Detectará el espíritu del mundo en cada uno de sus anzuelos y tentaciones,
 y "`pondrá sus pecados en orden delante de sus ojos.`"^
 footnote:[Salmos 50:21; Salmos 90:8]
 
-Segundo,
+_Segundo,_
 engendrará un profundo sentimiento de tristeza en todos los que creen en su testimonio.
 La luz les mostrará a Aquel a quien traspasaron,
 los golpes y heridas que le han hecho con su desobediencia,
@@ -587,7 +590,7 @@ pero su dolor será esa "`tristeza que es según Dios, que obra arrepentimiento`
 footnote:[2 Corintios 7:10 RV1602P]
 de la cual habla el apóstol.
 
-Tercero, los llevará a una vigilancia santa, para que tengan cuidado de no hacerlo más,
+_Tercero,_ los llevará a una vigilancia santa, para que tengan cuidado de no hacerlo más,
 y que el enemigo no los sorprenda otra vez.
 De este modo serán enseñados a llevar cada pensamiento,
 palabra y obra al juicio de la luz,
@@ -603,7 +606,8 @@ Y conocerán (más allá de las palabras) el poder de la sangre, sí,
 de la sangre de Jesucristo, el Cordero sin mancha, que habla mejor que la sangre de Abel,
 y limpia la conciencia de las obras muertas para servir al Dios vivo.
 
-* * * * *
+[.asterism]
+'''
 
 He aquí el testimonio y la doctrina del pueblo llamado Cuáqueros.
 He aquí su práctica y disciplina,
@@ -620,6 +624,11 @@ y conociendo la belleza y el beneficio del mismo por encima de todos los tesoros
 lo ha escogido como su más grande alegría, y por lo tanto,
 les recomienda que lo amen y escojan, porque él es, con gran sinceridad y afecto,
 
+[.signed-section-closing]
 Un amigo de sus almas,
 
-William Penn.1696
+[.signed-section-signature]
+William Penn.
+
+[.signed-section-context-close]
+1696

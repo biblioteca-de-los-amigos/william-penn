@@ -1,13 +1,16 @@
 == Capítulo 4
 
+[.chapter-subtitle--blurb]
 Algunas Objeciones Consideradas y Respondidas
 
+[.discourse-part]
 Objeción:
 Pero algunos pueden objetar que las virtudes y efectos que le atribuimos a la
 luz en el corazón corresponden más bien al Espíritu y a la gracia de Dios,
 que son las bendiciones peculiares del nuevo y segundo pacto,
 y el fruto de la venida de Cristo.
 
+[.discourse-part]
 Respuesta:
 Si las propiedades atribuidas a la luz en el corazón son las mismas
 que se otorgan al Espíritu Santo y gracia de Dios,
@@ -20,34 +23,34 @@ y poder ver si la luz en el corazón es de la misma
 naturaleza que el Espíritu y la gracia de Dios,
 y tiende al mismo fin (el cual es llevar a las personas a Dios),
 comparemos las propiedades de la luz con las del Espíritu y la gracia de Dios.
-Primero, la luz procede de la Palabra, y de la única vida de esta Palabra,
-la cual era con Dios y era Dios, Juan 1:4 y 1:9. Segundo, es universal, es decir,
+_Primero,_ la luz procede de la Palabra, y de la única vida de esta Palabra,
+la cual era con Dios y era Dios, Juan 1:4 y 1:9. _Segundo,_ es universal, es decir,
 está escrito que alumbra a todo hombre.
-Tercero, da el conocimiento de Dios y comunión con Él,
-Romanos 1:19. Juan 3:21. 1 Juan 1:5-6. Cuarto, manifiesta y reprende el mal,
-Juan 3:20. Efesios 5:13. Quinto,
+_Tercero,_ da el conocimiento de Dios y comunión con Él,
+Romanos 1:19. Juan 3:21. 1 Juan 1:5-6. _Cuarto,_ manifiesta y reprende el mal,
+Juan 3:20. Efesios 5:13. _Quinto,_
 es constituida como la regla y guía de la vida cristiana,
 Salmo 43:3. Juan 8:12. Efesios 5:13, 15. Sexto,
 es la senda por la que el pueblo de Dios debe caminar,
 Salmos 119:105. Proverbios 4:18. Isaías 2:5. 1 Juan 1:7. Apocalipsis 21:24,
 "`las naciones de los que son salvos andarán en la luz del Cordero.`"^
 footnote:[Reina Valera 1602 Purificada]
-Por último, es la armadura de los hijos de Dios contra Satanás, Salmos 27:1,
+_Por último,_ es la armadura de los hijos de Dios contra Satanás, Salmos 27:1,
 "`El Señor es mi luz: ¿de quién temeré?`" Y Romanos 13:12,
 "`Vistámonos las armas de la luz.`"
 
 Ahora comparemos todo esto con las propiedades del Espíritu Santo,
 y su concordancia será demasiado evidente.
-Primero, el Espíritu procedió de Dios, porque es el Espíritu de Dios,
-Romanos 8:11. Segundo, es universal; contendió con el mundo antiguo (Génesis 6:3),
+_Primero,_ el Espíritu procedió de Dios, porque es el Espíritu de Dios,
+Romanos 8:11. _Segundo,_ es universal; contendió con el mundo antiguo (Génesis 6:3),
 y sin duda lo hace con el nuevo también. A cada uno
 le ha sido dada una medida de Él para provecho,
-1 Corintios 12:7. Tercero, revela a Dios, Job 32:8, 1 Corintios 2:10-11. Cuarto,
-reprende el pecado, Juan 16:8. Quinto,
+1 Corintios 12:7. _Tercero,_ revela a Dios, Job 32:8, 1 Corintios 2:10-11. _Cuarto,_
+reprende el pecado, Juan 16:8. _Quinto,_
 es la regla y guía por la cual los hijos de Dios deben andar, Romanos 8. Sexto,
 también es la senda por la que deben caminar, Romanos 8:1, Gálatas 5:16,
 "`Andad en el Espíritu.`"
-Por último, es el arma espiritual de todo cristiano verdadero, Efesios 6:17,
+_Por último,_ es el arma espiritual de todo cristiano verdadero, Efesios 6:17,
 "`Tomad la espada del Espíritu, que es la palabra de Dios.`"
 Así pues,
 creo que nadie negará que esta luz y este Espíritu deben ser de una misma naturaleza,
@@ -55,36 +58,38 @@ que hacen un mismo efecto y que evidentemente tienden a un mismo y santo fin.
 
 Y la coherencia que existe entre la luz y el Espíritu,
 evidentemente existe también entre la luz y la gracia de Dios.
-Porque primero,
+Porque _primero_,
 la gracia fluye de Cristo--la Palabra que se hizo carne--como también la luz; porque,
 así como "`en él estaba la vida, y la vida era la luz de los hombres,`"^
 footnote:[Juan 1:4]
 también estaba "`lleno de gracia y de verdad,`" Juan 1:14,
 y "`de su plenitud todos nosotros hemos recibido,
-y gracia por gracia,`" Juan 1:16. Segundo, es universal,
+y gracia por gracia,`" Juan 1:16. _Segundo_, es universal,
 lo cual puede verse tanto en el texto anterior como
 también en las palabras del apóstol a Tito;
 "`Porque la gracia de Dios que trae salvación se ha manifestado a todos los hombres,`"^
 footnote:[Reina Valera Gómez]
-Tito 2:11. Tercero, manifiesta el mal,
+Tito 2:11. _Tercero_, manifiesta el mal,
 porque "`enseña a renunciar a la impiedad y a los
-deseos mundanos,`" versículo 12. En cuarto lugar,
+deseos mundanos,`" versículo 12. _En cuarto lugar_,
 revela la piedad y, por consiguiente, manifiesta a Dios.
-En quinto lugar, es un instructor y guía;
+_En quinto lugar_, es un instructor y guía;
 porque el apóstol dice que "`enseña a vivir en este mundo sobria,
 justa y piadosamente;`" y aquí está la regla o guía de la vida cristiana.
-En sexto lugar, es para los que la reciben todo lo que pueden necesitar o desear,
+_En sexto lugar,_ es para los que la reciben todo lo que pueden necesitar o desear,
 2 Corintios 12:9,
 "`Bástate mi gracia;`"--este es un fuerte testimonio desde
 el cielo a favor del poder de esta gracia que enseña y salva,
 incluso bajo las más fuertes tentaciones.
 
+[.discourse-part]
 Objeción: Pero antes de la venida de Cristo, hay pocas referencias al Espíritu,
 y ninguna a la gracia.
 Por lo tanto,
 el Espíritu y especialmente la gracia que se mencionan en el Nuevo Testamento
 deben ser algo diferente y más noble que la luz en el corazón.
 
+[.discourse-part]
 Respuesta: De ninguna manera es algo diferente,
 sino otro nombre para otra manifestación u operación del mismo Espíritu.
 Es llamada luz debido a la percepción y discernimiento que da.
@@ -147,7 +152,7 @@ ese profundo y excelente apóstol,
 aplicó la promesa de Joel al día de Pentecostés como el comienzo de su cumplimiento.
 ¡Esto verdaderamente es gracia, favor y bondad!
 Por lo tanto, esta iluminación mucho más brillante,
-este derramamiento mayor del Espíritu, puede llamarse apropiadamente gracia; porque,
+este derramamiento mayor del Espíritu, puede llamarse apropiadamente _gracia_; porque,
 tal como la venida del Hijo superó el tiempo de siervo,
 así también la manifestación de la luz y del Espíritu de Dios desde la venida de Cristo,
 superó la de todas las dispensaciones anteriores; no obstante,
@@ -163,10 +168,12 @@ la gracia que lo enseña, lo ayuda y lo consuela,
 y esto es suficiente en todas las circunstancias de la vida para
 aquellos que con diligencia le prestan atención y la obedecen.
 
+[.discourse-part]
 Objeción: Pero algunos todavía podrían decir, "`Si es así como ustedes dicen,
 ¿por qué entonces todos los que son iluminados, no son tan buenos como deberían ser,
 o tan buenos como esta luz busca hacerlos?`"
 
+[.discourse-part]
 Respuesta: Porque las personas no la reciben ni la obedecen.
 Todos los hombres tienen la capacidad de razonar,
 pero no todos los hombres son razonables.
@@ -189,11 +196,13 @@ Los hombres que no viven en obediencia a lo que conocen no pueden
 culpar a Dios por no conocer más. La esterilidad está en nosotros,
 no en el talento, y de verdad sería muy bueno que esto se tomara en serio.
 
+[.discourse-part]
 Objeción: Pero algunos todavía objetan:
 "`Si la humanidad siempre ha tenido el Espíritu Santo ¿Por qué
 las verdades del Evangelio no se conocieron tan plenamente antes
 de la venida de Cristo por aquellos que fueron obedientes a Él?
 
+[.discourse-part]
 Respuesta: Porque un niño no es un adulto, ni el principio es el final; y, sin embargo,
 Aquel quien es el principio también es el final.
 El Espíritu es el mismo, aunque no la manifestación,
@@ -252,11 +261,13 @@ footnote:[Proverbios 6:22]
 y sintiéndolo siempre tan presente y cerca, más fácil sería deshacerme de mí mismo,
 que deshacerme de Él.
 
+[.discourse-part]
 Objeción:
 Pero que los judíos hayan tenido esta luz no significa
 que los gentiles la tuvieran también;
 sin embargo, según su doctrina, todos la tienen.
 
+[.discourse-part]
 Respuesta: Sí,
 y la gloria de esta doctrina que profesamos es que
 ella declara que el amor de Dios es ofrecido a todos.
@@ -301,12 +312,14 @@ y, por lo tanto, será válido e irreversible.
 Cuarto, que esto jamás podría ser así,
 a menos de que la luz que brillaba en la conciencia fuera una luz divina y suficiente.
 
+[.discourse-part]
 Objeción: Pero podría decirse: "`Si todo es obra de un solo Espíritu Santo,
 entonces ¿por qué existen tantos tipos y formas de religión desde que comenzó el mundo?
 Porque la religión patriarcal, mosaica y cristiana, todas tienen sus grandes diferencias;
 sin mencionar lo que le ha sucedido a la religión cristiana
 desde el día en que comenzó a publicarse al mundo.`"
 
+[.discourse-part]
 Respuesta: No sé cómo estos pueden llamarse correctamente religiones diferentes,
 ya que todas afirman al verdadero Dios como el objeto de adoración,
 al Señor Jesucristo como el único Salvador y a la luz o Espíritu de Cristo como

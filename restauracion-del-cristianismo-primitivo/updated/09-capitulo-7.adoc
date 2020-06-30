@@ -1,5 +1,6 @@
 == Capítulo VII
 
+[.chapter-subtitle--blurb]
 Otros Principios y Prácticas Distintivos
 
 Además de estas doctrinas generales (que eran como largas ramas en el árbol del evangelio),
@@ -14,7 +15,7 @@ de la gracia o Semilla de vida que está en él. Y habiéndola ignorado,
 ha perdido el sentido de ella,
 a pesar de que solo en y a través de ella es que el hombre puede
 ser vivificado para servir al Dios vivo en novedad de vida.
-Por lo tanto, al descubrir que la vida de la religión fue abandonada en gran medida,
+Por lo tanto, al descubrir que la _vida_ de la religión fue abandonada en gran medida,
 y que la mayoría de los hombres vivía y adoraba a Dios según sus propias voluntades--y
 no según la voluntad de Dios ni la mente de Cristo--por lo tanto,
 lo que el pueblo llamado Cuáqueros buscaba no era una noción, sino la experiencia;
@@ -146,7 +147,7 @@ y no buscáis la gloria que viene del Dios único?`"^
 footnote:[Juan 5:44]
 
 En octavo lugar, por la misma razón ellos han regresado a la manera simple de hablar,
-es decir, usar tú y usted con una sola persona,
+es decir, usar _tú_ y _usted_ con una sola persona,
 independientemente de su estatus o grado entre los hombres.^
 footnote:[En el idioma inglés (puesto que en español no tiene el mismo sentido),
 en los años 1600,
