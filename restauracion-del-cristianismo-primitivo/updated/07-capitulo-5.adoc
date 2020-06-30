@@ -1,10 +1,13 @@
-== Capítulo V Las Doctrinas de la Justificación y la Salvación
+== Capítulo V
+
+[.chapter-subtitle--blurb]
+Las Doctrinas de la Justificación y la Salvación
 
 Ha habido muchos rumores y acusaciones falsas sobre nosotros,
 de parte de nuestros adversarios en relación con las siguientes e importantes doctrinas:
 1+++.+++ Cómo el sacrificio de Cristo hizo que Dios quedara satisfecho por nuestros pecados,
 y 2. Cuál es el fundamento de la justificación de un pecador ante Dios.
-Primero hablaré negativamente en cuanto a lo que no creemos,
+Primero hablaré negativamente en cuanto a lo que _no creemos_,
 lo cual quizás haya dado ocasión a los que han sido más apresurados que sabios,
 para juzgar como deficiente nuestra creencia en la eficacia de
 la muerte y los sufrimientos de Cristo para justificación.
@@ -36,6 +39,7 @@ Así como Él murió por el pecado, nosotros también debemos morir al pecado,
 o no podemos decir verdaderamente que somos salvos por la muerte y sufrimientos de Cristo,
 o que estamos completamente justificados y aceptados ante Dios.
 
+[.offset]
 Ahora hablaré de manera positiva lo que creemos con respecto a la justificación:
 
 Sin ninguna duda creemos que Jesucristo fue nuestro santo sacrificio,
@@ -342,7 +346,7 @@ manda y recomienda por Su propio bendito ejemplo,
 que es comparado con un edificador prudente que puso un fundamento sólido.
 Ninguna otra casa permanecerá en el temblor y juicio final.
 Por esta razón, a menudo tratamos de manera clara, directa y seria a las personas,
-para que consideren que Cristo no vino a salvarlos en, sino de sus pecados.
+para que consideren que Cristo no vino a salvarlos _en,_ sino _de_ sus pecados.
 Aquellos que piensen desprenderse de Su yugo y carga, de Su cruz y ejemplo,
 y se sientan seguros alabando a Cristo por haber hecho todo
 por ellos (mientras que Él ha hecho poco o nada en ellos,

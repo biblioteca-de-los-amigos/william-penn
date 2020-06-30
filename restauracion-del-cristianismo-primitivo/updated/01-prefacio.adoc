@@ -1,12 +1,12 @@
 == Prefacio
 
-Aunque he escogido el título "`Restauración del Cristianismo
-Primitivo`" como el nombre principal de esta publicación,
+Aunque he escogido el título [.book-title]#Restauración del Cristianismo
+Primitivo# como el nombre principal de esta publicación,
 en realidad es una combinación de dos publicaciones distintas de William Penn.
-Una es de su libro "`Restauración del Cristianismo
-Primitivo`" (publicado por primera vez en 1696),
-y la otra es "`Un Corto Relato del Surgimiento y Progreso del Pueblo llamado
-Cuáqueros,`" que originalmente sirvió como introducción al Diario de George
+Una es de su libro [.book-title]#Restauración del Cristianismo
+Primitivo# (publicado por primera vez en 1696),
+y la otra es [.book-title]#Un Corto Relato del Surgimiento y Progreso del Pueblo llamado
+Cuáqueros,# que originalmente sirvió como introducción al Diario de George
 Fox (publicado en 1694) y después se imprimió por separado.
 Las dos publicaciones se traslapan en su enfoque,
 ambas relacionadas (en diversos grados) con el surgimiento de la Sociedad de Amigos,
@@ -42,6 +42,8 @@ y para mediados de los 1800 la gran mayoría de los que llevaban el nombre de Cu
 eran extraños a ese poder y presencia celestial que
 al principio los había reunido para ser un pueblo.
 
+[.signed-section-signature]
 Jason Henderson.
 
+[.signed-section-context-close]
 Febrero 2018

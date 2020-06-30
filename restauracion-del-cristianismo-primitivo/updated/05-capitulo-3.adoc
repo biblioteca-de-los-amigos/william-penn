@@ -1,5 +1,6 @@
 == Capítulo III
 
+[.chapter-subtitle--blurb]
 El Don de Dios--La Luz de Cristo en el Corazón
 
 Habiendo hablado algo sobre el origen y surgimiento de este pueblo,
@@ -23,7 +24,7 @@ Este es su testimonio antiguo, primero y permanente.
 Con esto comenzaron, y de esto dieron testimonio y siguen dándolo al mundo.
 
 Ahora, cuando hablan de este don de Su Espíritu, se refieren a algo que es divino;
-pero aunque esté en el hombre, no es del hombre, sino de Dios; y así como vino de Él,
+pero aunque esté _en_ el hombre, no es _del_ hombre, sino de Dios; y así como vino de Él,
 asimismo conduce hacia Dios a todos los que quieran ser guiados por él.
 
 Ahora bien,
@@ -43,7 +44,7 @@ ya que se encuentran con frecuencia en los escritos y en el ministerio de este p
 Pero para evitar algún malentendido o confusión en el lector, quiero que todos sepan que,
 con todos estos diversos términos o denominaciones,
 ellos se refieren a lo mismo que se mencionó anteriormente, a saber: al don o gracia,
-que, aunque está en el hombre, no es del hombre, sino de Dios, y por lo tanto es divino.
+que, aunque está _en_ el hombre, _no es del_ hombre, sino de Dios, y por lo tanto es divino.
 Este Espíritu es uno en sí mismo,
 aunque es expresado de diversas maneras por los autores de las Escrituras,
 de acuerdo con sus distintas manifestaciones y operaciones.
@@ -101,15 +102,19 @@ y la seguridad de recibir bendición en el siglo venidero.
 
 === La Evidencia de las Escrituras a favor de la Luz de Cristo
 
-Juan 1:1. En el principio era la Palabra, y la Palabra era con Dios,
+[.offset]
+_Juan 1:1._ En el principio era la Palabra, y la Palabra era con Dios,
 y la Palabra era Dios.^
 footnote:[Reina Valera Versión 1602 Purificada]
 
-Verso 3. Todas las cosas por Él fueron hechas.
+[.offset]
+_Verso 3._ Todas las cosas por Él fueron hechas.
 
-Verso 4. En Él estaba la vida, y la vida era la luz de los hombres.
+[.offset]
+_Verso 4._ En Él estaba la vida, y la vida era la luz de los hombres.
 
-Verso 9. Aquél era la Luz verdadera, que alumbra a todo hombre que viene a este mundo.^
+[.offset]
+_Verso 9._ Aquél era la Luz verdadera, que alumbra a todo hombre que viene a este mundo.^
 footnote:[Reina Valera de Gómez]
 
 He comenzado con el relato del discípulo amado,
@@ -144,13 +149,13 @@ de allí prosigue a hablar de las obras de la Palabra; y finalmente,
 nos dice lo que es esta Palabra con respecto al hombre
 (que es mayor que el resto de la creación):
 a saber, Su luz.
-La Palabra era la vida, y la vida era la luz de los hombres.
+La Palabra era la vida, y _la vida era la luz de los hombres._
 Esta relación debe ser muy cercana e íntima en verdad,
 ya que se dice que la vida misma de la Palabra (que estaba con Dios,
 y era Dios) es la luz de los hombres.
 Esto no se dice de ninguna otra criatura.
 
-El hombre, entonces, no puede existir sin tener una luz; sin tener una luz divina;
+El hombre, entonces, no puede existir sin tener una luz; sin tener una luz _divina;_
 porque si nosotros negamos que esta luz es divina (de la cual se
 dice claramente que es la vida de la Palabra divina) entonces negamos
 la posibilidad de que exista una luz y vida divina y sobrenatural.
@@ -162,7 +167,7 @@ y que alumbra a todo hombre; a saber, la Palabra que se hizo carne.
 Así, tanto la naturaleza divina como la universalidad^
 footnote:[En años más recientes,
 ha habido malentendidos y conclusiones falsas derivados del uso de los
-Cuáqueros del término universal con referencia a la luz de Cristo.
+Cuáqueros del término __universal__ con referencia a la luz de Cristo.
 Esta palabra fue utilizada por los Amigos para establecer un contraste
 intencional con la idea prevaleciente de que Dios le ofrece el conocimiento
 salvador de Cristo solo a un pequeño grupo de personas predestinadas.
@@ -192,7 +197,7 @@ Pero debido a que deseo que me entiendan, y que quiero hablarles con claridad,
 consideraré los términos de esta objeción lo mejor que pueda,
 y entonces ofreceré mi respuesta a la misma.
 
-Si con natural se refieren a una cosa creada, como lo es el hombre,
+Si con _natural_ se refieren a una cosa creada, como lo es el hombre,
 o a alguna parte inherente en la composición del hombre, lo niego.
 El texto se muestra claramente en contra de tal idea,
 y dice que la luz con la que el hombre es iluminado
@@ -211,7 +216,7 @@ ayudaría mucho a sacarlos de cualquier dilema en este asunto.
 Porque el hombre no puede ser una luz para su propia
 mente más de lo que es para su propio cuerpo.
 Él tiene la capacidad de ver objetos cuando tiene la ayuda de la luz,
-pero no puede ser una luz para sí mismo por la cual pueda verlos.
+pero no puede _ser_ una luz para sí mismo por la cual pueda verlos.
 Por lo tanto, así como el sol en el firmamento es la luz del cuerpo,
 y nos da discernimiento en nuestros asuntos temporales,
 asimismo la vida de la Palabra es la gloriosa luz y sol del alma.
