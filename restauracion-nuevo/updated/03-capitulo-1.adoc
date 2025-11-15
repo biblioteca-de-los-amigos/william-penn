@@ -1,5 +1,6 @@
 == Capítulo I
 
+[.chapter-subtitle--blurb]
 Una Breve Reseña de las Diferentes Dispensaciones de Dios en el Mundo,
 hasta el Tiempo en que Le Plació Levantar al Pueblo Llamado Cuáqueros.
 
@@ -232,10 +233,10 @@ La época de la Reforma dio algunos pasos hacia ello,
 tanto en la doctrina como en la adoración y en la práctica.
 Pero cualquier avance en la práctica fracasó rápidamente;
 porque la iniquidad fluyó libremente, tanto entre los profesantes^
-footnote:[La palabra profesantes se usa a través de este libro
+footnote:[La palabra __profesantes__ se usa a través de este libro
 para referirse a uno que profesa o afirma una creencia en Cristo.
 De la misma manera,
-la profesión de una persona se refiera a lo que ellos creen o profesan como la verdad,
+la __profesión__ de una persona se refiera a lo que ellos creen o profesan como la verdad,
 y no está relacionado con su empleo.]
 de la Reforma como entre aquellos de quienes ellos se habían separado;
 de modo que no podían distinguirse unos de otros por los frutos de su conducta.

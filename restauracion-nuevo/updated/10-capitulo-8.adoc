@@ -1,5 +1,6 @@
 == Capítulo VIII
 
+[.chapter-subtitle--blurb]
 Varias Exhortaciones
 
 Y ahora, Amigos, ustedes que profesan andar en este camino, permitan, les ruego,
@@ -183,7 +184,7 @@ abandonando sin darse cuenta a Cristo, la Fuente viva,
 para cavar para sí cisternas que no podrán retener aguas vivas.^
 footnote:[Ver Jeremías 2:13]
 Y, poco a poco, apartarán también a otros de esperar en el don de Dios en ellos mismos,
-y de sentirlo obrar en otros (para su fortaleza y refrigerio), para que esperen en ellos,
+y de sentirlo obrar en otros (para su fortaleza y refrigerio), para que esperen _en ellos,_
 y así se vuelvan de Dios al hombre otra vez.
 Estos naufragan en cuanto a esa fe que una vez fue dada a los santos,
 y a una buena conciencia hacia Dios,
@@ -242,7 +243,8 @@ por muy edificantes y reconfortantes que sean esas
 oportunidades tanto para ustedes como para ellos.
 Sino que--como era la práctica del hombre de Dios
 antes mencionado cuando estaba entre nosotros^
-footnote:[Se refiere a George Fox]--examinen el estado de las iglesias que visitan,
+footnote:[Se refiere a George Fox]
+--examinen el estado de las iglesias que visitan,
 indagando quiénes entre ellos están afligidos o enfermos, quiénes son tentados,
 y si alguno es infiel u obstinado, y entonces,
 procuren atender estas cosas en la sabiduría y poder de Dios.
@@ -308,7 +310,7 @@ Sus padres no son más que carne,
 y solo pueden engendrarlos a la semejanza del primer Adán;
 pero ustedes deben ser engendrados a la semejanza
 del segundo Adán por medio de un nacimiento espiritual,
-o no serán, ni podrán ser, Sus hijos ni Su descendencia.
+o no serán, _ni podrán ser,_ Sus hijos ni Su descendencia.
 
 Por lo tanto, examínense cuidadosamente, ¡oh, hijos de los hijos de Dios!
 Consideren su condición, y vean que son en relación con este parentesco,
@@ -477,13 +479,14 @@ voluntad y prácticas santas.
 El hecho de que la tengamos no significa que no sea de Cristo;
 porque no es nuestra por naturaleza, sino por fe y adopción; es el don de Dios.
 Pero, aun así, aunque no es nuestra justicia,
-como de nosotros o proveniente de nosotros (porque en ese sentido es de Cristo,
-siempre de y proveniente de Él), sin embargo, es nuestra, y debe ser nuestra en posesión,
+como _de_ nosotros o _proveniente de_ nosotros (porque en ese sentido es de Cristo,
+siempre de y proveniente de Él), sin embargo, _es_ nuestra, y _debe ser nuestra_ en posesión,
 eficacia y experiencia, para que nos haga algún bien; de lo contrario,
 la justicia de Cristo no nos será de ningún provecho.
 Fue de esta manera que Él fue hecho para los primeros cristianos su "`justicia,
 santificación, justificación y redención`"^
-footnote:[1 Corintios 1:30]--no una imputación imperceptible,
+footnote:[1 Corintios 1:30]
+--no una imputación imperceptible,
 sino una transformación palpable.
 Y si alguna vez desean conocer el consuelo,
 la sustancia y la médula de la religión cristiana,
@@ -541,16 +544,17 @@ Es por un camino de aflicción que deban andar hacia
 la ciudad de Dios que tiene fundamentos eternos,
 si desean llegar alguna vez.
 
+[.offset]
 ¿Y qué hará esta bendita luz por ustedes?
 Lo diré:
 
-En primer lugar,
+_En primer lugar,_
 les mostrará cómo el hombre ha caído de Dios y el estado miserable en el que se encuentra.
 Detectará el espíritu del mundo en cada uno de sus anzuelos y tentaciones,
 y pondrá sus pecados en orden delante de sus ojos.^
 footnote:[Ver Salmos 50:21; Salmos 90:8]
 
-En segundo lugar,
+_En segundo lugar,_
 engendrará un profundo sentimiento de tristeza en todos los que creen en su testimonio.
 La luz les mostrará a Aquel a quien traspasaron,
 los golpes y heridas que le han causado por su desobediencia,
@@ -560,7 +564,7 @@ pero su dolor será esa "`tristeza que es según Dios, que obra arrepentimiento,
 footnote:[2 Corintios 7:10 RV1602P]
 de la cual habla el apóstol.
 
-En tercer lugar, los llevará a una vigilancia santa,
+_En tercer lugar,_ los llevará a una vigilancia santa,
 para que tengan cuidado de no volver a hacerlo,
 y para que el enemigo no los sorprenda de nuevo.
 Así serán enseñados a llevar cada pensamiento, palabra y obra al juicio de la luz,
@@ -588,6 +592,9 @@ la acción de gracias y el renombre, por medio de Su amado Hijo y Cordero,
 nuestra luz y vida, que se sienta con Él en el trono, por los siglos de los siglos.
 Amén.
 
+[.small-break]
+'''
+
 --Habla uno a quien Dios favoreció hace mucho tiempo con Su visitación misericordiosa,
 y quien no fue desobediente al llamado y visión celestial;
 para quien el camino de la verdad es más hermoso y precioso que nunca,
@@ -596,6 +603,11 @@ lo ha escogido como su más grande alegría,
 y por eso les recomienda que lo amen y escojan, porque él es,
 con gran sinceridad y afecto,
 
+[.signed-section-closing]
 Un amigo de sus almas,
 
-William Penn.1696
+[.signed-section-signature]
+William Penn
+
+[.signed-section-context-close]
+1696

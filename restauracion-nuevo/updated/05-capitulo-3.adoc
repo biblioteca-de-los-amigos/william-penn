@@ -1,5 +1,6 @@
 == Capítulo III
 
+[.chapter-subtitle--blurb]
 El Don de Dios--La Luz de Cristo en el Corazón
 
 Habiendo hablado algo sobre el origen y surgimiento de este pueblo,
@@ -23,7 +24,7 @@ Este es su testimonio antiguo, primero y permanente.
 Con esto comenzaron, y este testimonio dieron y siguen dándolo al mundo.
 
 Al hablar de un don de Su Espíritu, entienden algo que es divino;
-pero aunque está en el hombre, no es del hombre, sino de Dios; y así como vino de Él,
+pero aunque está _en_ el hombre, no es _del_ hombre, sino de Dios; y así como vino de Él,
 también conduce a Él a todos los que quieran ser guiados por él.
 
 Ahora bien, este pueblo ha sido guiado a usar diversas maneras de hablar,
@@ -42,7 +43,7 @@ ya que se encuentran con frecuencia en los escritos y el ministerio de este pueb
 Pero, para evitar algún malentendido o confusión en el lector,
 deseo que todos sepan que todos estos diversos términos o denominaciones
 se refieren a lo mismo que se mencionó anteriormente,
-es decir: al don o gracia que, aunque está en el hombre, no es del hombre, sino de Dios,
+es decir: al don o gracia que, aunque está _en_ el hombre, no es _del_ hombre, sino de Dios,
 y por lo tanto es divino.
 Este Espíritu es uno en sí mismo,
 aunque es expresado de diversas maneras por los autores de las Escrituras,
@@ -96,22 +97,26 @@ y la seguridad de recibir bendición en el siglo venidero.
 
 === La Evidencia de las Escrituras a favor de la Luz de Cristo
 
-Juan 1:1, "`En el principio era la Palabra, y la Palabra era con Dios,
+[.offset]
+_Juan 1:1,_ "`En el principio era la Palabra, y la Palabra era con Dios,
 y la Palabra era Dios.`"^
 footnote:[Reina Valera Versión 1602 Purificada]
 
-Verso 3, "`Todas las cosas por Él fueron hechas.`"
+[.offset]
+_Verso 3,_ "`Todas las cosas por Él fueron hechas.`"
 
-Verso 4, "`En Él estaba la vida, y la vida era la luz de los hombres.`"
+[.offset]
+_Verso 4,_ "`En Él estaba la vida, y la vida era la luz de los hombres.`"
 
-Verso 9, "`Aquél era la Luz verdadera,
+[.offset]
+_Verso 9,_ "`Aquél era la Luz verdadera,
 que alumbra a todo hombre que viene a este mundo.`"^
 footnote:[Reina Valera de Gómez]
 
 He comenzado con el relato del discípulo amado,
 bien conocido por su excelente conocimiento y sabiduría en las cosas celestiales.
 
-"`En el principio era la Palabra, y la Palabra era con Dios, y la Palabra era Dios.`"
+_"`En el principio era la Palabra, y la Palabra era con Dios, y la Palabra era Dios.`"_
 Él comenzó su historia con Aquel que era el principio de la creación de Dios,
 y en primer lugar nos dice qué era Cristo en el principio, a saber: la Palabra.
 "`En el principio era la Palabra.`"
@@ -124,7 +129,7 @@ y este en verdad es un nombre apropiado por el cual llamarle,
 ya que Él es una perfecta expresión de la sabiduría
 y del poder de Dios para con los hombres.
 
-"`Todas las cosas por Él fueron hechas.`"
+_"`Todas las cosas por Él fueron hechas.`"_
 Si esto es así, no carece de poder alguno.
 Nada puede ser muy difícil para Aquel que fue suficiente para hacer todas las cosas,
 y "`sin él nada de lo que ha sido hecho, fue hecho.`"^
@@ -135,8 +140,8 @@ Sí, así como el Hacedor del hombre debe ser su marido,
 así también su Creador debe ser su Redentor.^
 footnote:[Ver Isaías 54:5]
 
-"`En Él estaba la vida, y la vida era la luz de los hombres.`"
-Este es precisamente nuestro punto.
+_"`En Él estaba la vida, y la vida era la luz de los hombres.`"_
+_Este es precisamente nuestro punto._
 El evangelista primero comienza con la naturaleza y el ser de la Palabra;
 de allí desciende a las obras de la Palabra; y por último,
 nos dice lo que esta misma Palabra es con respecto
@@ -148,18 +153,18 @@ ya que se dice que la vida misma de la Palabra (que estaba con Dios,
 y era Dios) es la luz de los hombres.
 Esto no se dice de ninguna otra criatura.
 
-El hombre, entonces, no puede existir sin luz; no, no sin una luz divina;
+El hombre, entonces, no puede existir sin luz; no, no sin una luz _divina;_
 porque si esta luz no es divina (de la cual se dice claramente que es la vida de la
 Palabra divina) entonces no puede haber tal cosa como una luz y vida divina y sobrenatural.
 Este texto no solo prueba la divinidad de la luz, sino también su universalidad,
-porque está escrito en el noveno versículo, que "`Aquél era la Luz verdadera,
-que alumbra a todo hombre que viene a este mundo.`"
+porque está escrito en el noveno versículo, que __"`Aquél era la Luz verdadera,
+que alumbra a todo hombre que viene a este mundo.`"__
 Juan no era la luz, sino que daba testimonio de Aquel que sí lo era,
 y que alumbra a todo hombre; a saber, la Palabra que se hizo carne.
 Así, tanto la naturaleza divina como la universalidad^
 footnote:[En años más recientes,
 ha habido malentendidos y conclusiones falsas derivados del uso que hacen
-los Cuáqueros del término universal con referencia a la luz de Cristo.
+los Cuáqueros del término __universal__ con referencia a la luz de Cristo.
 Esta palabra era utilizada por los Amigos para establecer un contraste
 intencional con la idea prevaleciente de que Dios ofrece el conocimiento
 salvador de Cristo solo a un pequeño grupo de personas predestinadas.
