@@ -1,5 +1,6 @@
 == Una Epístola para el Lector.
 
+[.salutation]
 Querido lector,
 
 El siguiente relato del pueblo llamado Cuáqueros fue escrito en el temor y amor de Dios;
@@ -25,4 +26,5 @@ a quien Él ha enviado para iluminar y redimir al mundo.
 Este conocimiento es, en verdad, la vida eterna; y que tú, querido lector, lo obtengas,
 es el deseo ferviente de tu sincero amigo,
 
+[.signed-section-signature]
 William Penn

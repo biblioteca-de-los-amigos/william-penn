@@ -1,12 +1,13 @@
 == Capítulo V
 
+[.chapter-subtitle--blurb]
 Las Doctrinas de la Justificación y la Salvación
 
 Mucho han rumorado y falsamente nos han acusado nuestros adversarios
 con respecto a las importantes doctrinas del sacrificio de Cristo
 por el cual Dios quedó satisfecho por nuestros pecados,
 y del fundamento de la justificación de un pecador ante Dios.
-Primero hablaré en términos negativos, acerca de lo que no creemos,
+Primero hablaré en términos negativos, acerca de lo que _no creemos,_
 lo cual quizás haya dado ocasión a los que han sido más apresurados que sabios,
 para juzgarnos deficientes en nuestra creencia en la eficacia de
 la muerte y los sufrimientos de Cristo para justificación.
@@ -38,8 +39,9 @@ o no se puede decir verdaderamente que somos salvos
 por la muerte y sufrimientos de Cristo,
 ni completamente justificados y aceptos ante Dios.
 
+[.offset]
 Ahora hablaré en términos positivos,
-acerca de lo que sí creemos respecto a la justificación:
+acerca de lo que _sí creemos_ respecto a la justificación:
 
 Nosotros creemos firmemente que Jesucristo fue nuestro santo sacrificio,
 expiación y propiciación; que Él llevó nuestras iniquidades,
@@ -52,7 +54,7 @@ Y que mediante la ofrenda de Sí mismo hecha una vez para siempre por el Espíri
 "`hizo perfectos para siempre a los que +++[+++en todos los tiempos]
 son santificados,`"^
 footnote:[Hebreos 10:14 RV1602P]
-los que no andan conforme a la carne, sino conforme al Espíritu.`"^
+los que "`no andan conforme a la carne, sino conforme al Espíritu.`"^
 footnote:[Romanos 8:1, 4.]
 
 En resumen, creemos que la justificación consta de dos partes,
@@ -305,7 +307,7 @@ quien nos vivifica por Su Espíritu,
 si no le resistimos ni apagamos con nuestra desobediencia,
 sino que más bien lo recibimos,
 amamos y obedecemos en todas sus santas directrices y enseñanzas.
-"`Porque todos los que son guiados por el Espíritu de Dios, éstos son hijos de Dios.`"^
+"`Porque todos los que son guiados por el Espíritu de Dios, __éstos__ son hijos de Dios.`"^
 footnote:[Romanos 8:14]
 
 A este Espíritu Santo encomiendo a mi lector, para que pueda ver mejor dónde está Él,
@@ -330,14 +332,14 @@ no se engañen a sí mismas en el gran asunto de su propia salvación,
 y que no les ocurra que, mientras felizmente declaran que Cristo lo ha hecho todo,
 sean halladas por Él como desconocidas en el día final.
 Lee el capítulo 7 de Mateo:
-aquel que oye a Cristo--la gran Palabra de Dios--y hace lo que Él ordena,
+aquel que oye a Cristo--la gran Palabra de Dios--y _hace_ lo que Él ordena,
 manda y recomienda por Su propio y bendito ejemplo,
 es comparado con un edificador prudente que edificó sobre un fundamento sólido.
 Ninguna otra casa permanecerá en la sacudida y juicio final.
 Por esta razón, a menudo somos claros,
 directos y sinceros con las personas para que consideren
-que Cristo no vino a salvarlos en,
-sino de sus pecados.
+que Cristo no vino a salvarlos _en,_
+sino _de_ sus pecados.
 Aquellos que piensan librarse de Su yugo y carga, de Su cruz y Su ejemplo,
 y se sienten seguros alabando a Cristo por haber hecho todo
 por ellos (cuando Él ha obrado poco o nada en ellos,

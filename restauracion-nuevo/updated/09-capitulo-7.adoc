@@ -1,5 +1,6 @@
 == Capítulo VII
 
+[.chapter-subtitle--blurb]
 Otros Principios y Prácticas Distintivos
 
 Además de estas doctrinas generales,
@@ -16,7 +17,7 @@ ha perdido el sentido de ella,
 a pesar de que solo en y por medio de ella el hombre puede
 ser vivificado para servir al Dios vivo en novedad de vida.
 Por lo tanto,
-al descubrir que la vida de la religión había sido en gran medida abandonada,
+al descubrir que la _vida_ de la religión había sido en gran medida abandonada,
 y que la mayoría de los hombres vivían y adoraban a Dios según sus propias
 voluntades--y no según la voluntad de Dios ni la mente de Cristo--lo que
 el pueblo llamado Cuáqueros buscaba no era mera creencia,
@@ -26,7 +27,7 @@ justos juicios de Dios) de que "`sin santidad nadie verá al Señor.`"^
 footnote:[Hebreos 12:14]
 Algunos de sus testimonios distintivos son los siguientes:
 
-En primer lugar, la comunión y el amor unos a otros.
+_En primer lugar, la comunión y el amor unos a otros._
 Esta es una característica notable entre ellos,
 reconocida por todo tipo de personas respecto a este pueblo.
 Se reúnen, se ayudan y se mantienen unidos, tanto que es común oír decir a las personas:
@@ -37,7 +38,7 @@ Dios y ayudarse entre sí es una señal del cristianismo primitivo,
 ellos la tenían de manera amplia.
 ¡Bendito sea el Señor!
 
-En segundo lugar, recomiendan el silencio por medio de su ejemplo.
+_En segundo lugar, recomiendan el silencio por medio de su ejemplo._
 Usan muy pocas palabras en toda ocasión,
 ya que "`en las muchas palabras no falta el pecado.`"^
 footnote:[Proverbios 10:19]
@@ -51,7 +52,7 @@ Su sí es sí, y su no es no;
 y sus clientes no pueden (ni con muchas palabras) disuadirlos de ella,
 porque para ellos la verdad es más importante que la costumbre o la ganancia.
 
-En tercer lugar, enseñan y practican el amor a sus enemigos.
+_En tercer lugar, enseñan y practican el amor a sus enemigos._
 No solo se niegan a buscar venganza por cualquier mal que
 les hayan hecho (condenando esto como un espíritu no cristiano),
 sino que perdonan libremente,
@@ -59,7 +60,7 @@ e incluso ayudan y alivian a aquellos que han sido crueles con ellos,
 aun cuando tienen el poder de vengarse de sus opresores.
 Se podrían dar muchos ejemplos extraordinarios de esto si el tiempo lo permitiera.
 
-En cuarto lugar, sufrir en lugar de pelear, es otro testimonio peculiar de este pueblo.
+_En cuarto lugar, sufrir en lugar de pelear, es otro testimonio peculiar de este pueblo._
 Afirman que el Espíritu de Cristo enseña a los hombres
 a volver sus espadas en rejas de arado,
 sus lanzas en hoces, y a no adiestrarse más para la guerra,^
@@ -87,7 +88,7 @@ siempre y cuando el gobierno no interfiera con ella.
 Porque ellos creen que el gobierno es una ordenanza de Dios y un gran beneficio
 para la humanidad dondequiera que se administre con justicia.
 
-En quinto lugar, se niegan a sostener o mantener un ministerio humano.
+_En quinto lugar, se niegan a sostener o mantener un ministerio humano._
 A Dios le ha placido llamarlos a salir de tal ministerio,
 y por causa de conciencia no pueden apoyarlo; y es sobre esta base,
 y no por desafío ni por codicia,
@@ -103,7 +104,7 @@ Y segunda,
 porque los ministros nacionales no tienen el Espíritu Santo como su fundamento,
 sino una variedad de artes y conocimientos humanos.
 
-En sexto lugar, hablan verdad en toda ocasión, pero no se atreven a jurar;
+_En sexto lugar, hablan verdad en toda ocasión, pero no se atreven a jurar;_
 porque Cristo lo prohíbe, diciendo: "`Pero yo os digo: No juréis en ninguna manera;
 ni por el cielo, porque es el trono de Dios; ni por la tierra,
 porque es el estrado de sus pies; ni por Jerusalén,
@@ -123,9 +124,9 @@ siendo realmente sí (porque él mismo ya está ligado
 a la verdad) cumple el propósito del juramento,
 y, por lo tanto, su uso es innecesario, superfluo y procede del mal.
 
-En séptimo lugar, no se permiten dar honores mundanos,
+_En séptimo lugar, no se permiten dar honores mundanos,
 cumplidos vanos o títulos halagadores,
-ni usar los saludos frecuentes y de moda de la época.^
+ni usar los saludos frecuentes y de moda de la época_.^
 footnote:[En este tiempo,
 el saludo común entre las personas consistía en arrastrar
 el pie derecho hacia atrás sobre el suelo,
@@ -147,8 +148,8 @@ con todo, tienen presente lo que Cristo les dijo a los judíos:
 y no buscáis la gloria que viene del Dios único?`"^
 footnote:[Juan 5:44]
 
-En octavo lugar, han regresado a la manera simple de hablar.
-Es decir, a usar tú o usted con una sola persona,
+_En octavo lugar, han regresado a la manera simple de hablar._
+Es decir, a usar _tú_ o _usted_ con una sola persona,
 independientemente de su estatus o grado entre los hombres.^
 footnote:[En el idioma inglés del siglo XVI, se puso de moda,
 como una manera de mostrar honor o de halagar,
@@ -181,11 +182,11 @@ su manera sencilla de hablar está respaldada tanto por las Escrituras como por 
 y así como tienen la corrección de lenguaje a su favor,
 también han hallado paz en su práctica.
 
-En noveno lugar,
+_En noveno lugar,
 la simpleza y sencillez en su vestimenta y en el
 mobiliario es otro testimonio peculiar de ellos,
 junto con la moderación en la comida y la abstinencia de las vanas
-recreaciones y pasatiempos del mundo--todo lo cual el Espíritu
+recreaciones y pasatiempos del mundo_--todo lo cual el Espíritu
 del Señor Jesucristo les ha enseñado que es conforme a la piedad.
 Por lo tanto,
 durante mucho tiempo han exhortado a todos a que
@@ -195,16 +196,16 @@ puesto que se han dado cuenta de que el Señor está
 cerca para entrar en juicio contra toda extravagancia,
 falta de modestia y exceso.
 
-En décimo lugar, se abstienen, en conciencia para con Dios,
-de observar los llamados días santos y las festividades públicas.
+_En décimo lugar, se abstienen, en conciencia para con Dios,
+de observar los llamados días santos y las festividades públicas._
 Ellos saben que tales prácticas carecen de mandato divino, pues han sido instituidas,
 ordenadas y establecidas según la voluntad del hombre.
 
-Por último,
+_Por último,
 han sido guiados por el buen Espíritu de nuestro Señor Jesucristo (siguiendo
 el ejemplo de los primeros santos) a velar los unos por los otros,
 para la preservación de toda la Sociedad,
-en una conducta y disciplina acordes a su santa profesión. El primer asunto de
+en una conducta y disciplina acordes a su santa profesión._ El primer asunto de
 importancia que surgió entre ellos como sociedad fue el ejercicio de la caridad:
 suplir las necesidades de los pobres, y cuidar de las viudas,
 los huérfanos y los desamparados.

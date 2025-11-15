@@ -1,5 +1,6 @@
 == Capítulo II
 
+[.chapter-subtitle--blurb]
 El Primer Instrumento y el Surgimiento del Pueblo Llamado Cuáqueros.
 
 Fue por este mismo tiempo que al Dios eterno, sabio y bueno, le plació,
@@ -484,14 +485,14 @@ Ahora bien,
 respecto al ministerio de este pueblo y a la debida preparación para ejercerlo,
 las siguientes son varias marcas o señales de que era verdaderamente cristiano:
 
-En primer lugar, ellos mismos eran hombres transformados,
+_En primer lugar,_ ellos mismos eran hombres transformados,
 antes de intentar transformar a otros.
 Sus corazones estaban rasgados, así como sus vestidos,
 y conocían el poder y obra de Dios en sí mismos.
 Esto se evidenciaba por el gran cambio que se había operado en ellos,
 su estilo de vida más estricto, y su conducta más piadosa que le siguió.
 
-En segundo lugar, no salían ni predicaban en su propio tiempo o voluntad,
+_En segundo lugar,_ no salían ni predicaban en su propio tiempo o voluntad,
 sino en la voluntad de Dios; y no hablaban lo que habían estudiado de antemano,
 sino sólo según sus corazones eran preparados y movidos por Su Espíritu,
 con el cual estaban familiarizados debido a su propia experiencia de la regeneración.
@@ -504,14 +505,14 @@ al conocimiento interno y vivo de Dios, y a una vida santa, como miles pueden te
 Y así como recibían de gracia lo que debían decir de parte del Señor,
 así también lo daban gratuitamente a los demás.
 
-En tercer lugar, el énfasis y tendencia de su ministerio era la conversión a Dios;
+_En tercer lugar,_ el énfasis y tendencia de su ministerio era la conversión a Dios;
 es decir, verdadera regeneración y santidad.
 No se trataba de esquemas doctrinales, ni de credos verbales,
 ni de nuevas formas de adoración; sino de abandonar todo lo superfluo en la religión,
 reduciendo la parte ceremonial y formal, e insistiendo con fervor en la parte sustancial,
 necesaria y provechosa para el alma.
 
-En cuarto lugar, dirigían a las personas a un don o Semilla que estaba dentro de ellas,
+_En cuarto lugar,_ dirigían a las personas a un don o Semilla que estaba dentro de ellas,
 aunque no provenía de ellas mismas, por la que todo lo que afirmaban,
 predicaban y exhortaban podía ser obrado en ellas y ser conocido por experiencia propia.
 Esta es, en verdad, una marca importante y distintiva de la verdad de su ministerio,
@@ -534,7 +535,7 @@ footnote:[Santiago 1:21]
 ni les enseñan dónde encontrarla,
 ni cómo esperar para sentirla obrando en ellos la buena y agradable voluntad de Dios.
 
-En quinto lugar, alcanzaban el estado y condición interior de las personas,
+_En quinto lugar,_ alcanzaban el estado y condición interior de las personas,
 lo cual es evidencia de la virtud de esta Palabra implantada,
 y de que ministraban a partir de ella, y no a partir de sus propias imaginaciones,
 prejuicios u opiniones de las Escrituras.
@@ -564,7 +565,7 @@ celestial han tenido motivos para decir:
 footnote:[1 Reyes 10:6-7]
 del poder, la pureza, la sabiduría y la bondad de Dios en Ella.
 
-En sexto lugar,
+_En sexto lugar,_
 el extraordinario entendimiento en las cosas divinas con que aun algunos de los más
 sencillos entre ellos fueron dotados por la operación de esta Semilla celestial,
 hizo que muchos se asombraran, diciendo de ellos, como algunos dijeron de su Maestro:
@@ -576,7 +577,7 @@ e insinuar que eran jesuitas o grandes eruditos disfrazados;
 aunque no había el menor fundamento de verdad para tal calumnia,
 pues sus lugares de residencia, parentesco y educación eran bien conocido por todos.
 
-En séptimo lugar, estos ministros comenzaron su labor como hombres humildes,
+_En séptimo lugar,_ estos ministros comenzaron su labor como hombres humildes,
 despreciados y aborrecidos, tal como los primeros cristianos,
 sin contar en absoluto con la ayuda de la sabiduría o del poder mundanos,
 como sí lo hicieron en parte las reformas anteriores.
@@ -586,7 +587,7 @@ en verdadera oposición a los caminos, modos de adoración,
 modas y costumbres de este mundo; contra todas sus corrientes y tendencias,
 para que ninguna carne se jacte delante de Dios.
 
-En octavo lugar,
+_En octavo lugar,_
 claramente no tenían ningún propósito para sí mismos en su obra y servicio,
 como para exponerse al escarnio y ultraje; gastarse y ser gastados,
 dejando esposa e hijos, casa y tierras, y todo lo que el hombre considera precioso,
@@ -603,7 +604,7 @@ así como Dios es luz,
 experimentan la sangre de Jesucristo Su Hijo limpiándolos de todo pecado.
 (1 Juan 1:5-9; Juan 3:20-21)
 
-En noveno lugar,
+_En noveno lugar,_
 su gran constancia y paciencia en medio de los sufrimientos
 por su testimonio (en todas sus ramas^
 footnote:[Él quiere decir,
@@ -613,8 +614,8 @@ y que en algunas ocasiones sufrieron hasta la muerte, a causa de palizas, golpes
 y prolongados encarcelamientos, hacinados en calabozos inmundos.
 Cuatro de ellos murieron en Nueva Inglaterra a manos de verdugos,^
 footnote:[William Robinson, Marmaduke Stevenson, Mary Dyer y William Leddra.
-Ver La Historia del Surgimiento,
-Aumento y Progreso de ese Pueblo Cristiano llamado Cuáqueros de William Sewel.]
+Ver [.book-title]#La Historia del Surgimiento,
+Aumento y Progreso de ese Pueblo Cristiano llamado Cuáqueros# de William Sewel.]
 sólo por predicar entre el pueblo de Boston.
 Sin mencionar los destierros y los excesivos saqueos
 de bienes y propiedades en casi todas partes,
@@ -622,12 +623,12 @@ por su fidelidad a la buena y gloriosa causa;
 rehusando frecuentemente obtener la libertad por caminos o medios deshonrosos,
 a pesar de que esta les fue ofrecida muchas veces.
 
-En décimo lugar,
+_En décimo lugar,_
 no sólo no mostraban ningún deseo de vengarse cuando en algún momento estaba en su poder,
 sino que perdonaban a sus crueles enemigos,
 mostrando misericordia a quienes no les habían mostrado ninguna.
 
-En undécimo lugar,
+_En undécimo lugar,_
 su manera directa de tratar con los que estaban en autoridad
 era muy semejante a la de los antiguos profetas,
 pues no temían declarar los pecados privados y públicos

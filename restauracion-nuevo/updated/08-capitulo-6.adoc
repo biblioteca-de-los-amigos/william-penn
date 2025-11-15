@@ -1,5 +1,6 @@
 == Capítulo VI
 
+[.chapter-subtitle--blurb]
 Sobre la Verdadera Adoración de Dios y al Verdadero Ministerio, que es por Su Espíritu.
 
 Ahora bien,
@@ -12,7 +13,7 @@ en espíritu y en verdad es necesario que adoren...
 porque el Padre tales adoradores busca que le adoren.`"^
 footnote:[Juan 4:24, 23]
 Porque habiéndose sometido a las convicciones del Espíritu en ellos
-mismos en su diario vivir --por las cuales eran enseñados a renunciar
+mismos en su diario vivir--por las cuales eran enseñados a renunciar
 a toda apariencia de mal y a hacer lo que es bueno--entonces,
 al reunirse, se sentaban y esperaban la preparación del Espíritu Santo,
 con el fin de ver tanto sus verdaderos estados y condiciones ante el Señor,
@@ -124,7 +125,7 @@ para que también vosotros tengáis comunión con nosotros;
 y nuestra comunión verdaderamente es con el Padre, y con su Hijo Jesucristo.`"^
 footnote:[1 Juan 1:1-3]
 Digo pues, si los ministros de Cristo son Sus testigos,
-ellos deben conocer lo que hablan; es decir,
+ellos deben _conocer_ lo que hablan; es decir,
 deben haber experimentado y pasado a través de los
 diversos estados y condiciones de los cuales predican,
 y conocer en la práctica las verdades que le declaran al pueblo.
@@ -159,12 +160,14 @@ vivos de Su poder y bondad en sus propias almas.
 Entonces podrán dar testimonio a otros de lo que Dios ha hecho por ellos,
 lo cual es la raíz y fundamento de todo ministro verdadero, y aquello que Dios bendice.
 
+[.discourse-part]
 Objeción:
 ¿Acaso no tiende este tipo de ministerio y adoración
 hacer que algunas personas sean ociosas,
 y a levantar el orgullo espiritual en otros?
 ¿Y no da acaso ocasión a grandes males e impiedad?
 
+[.discourse-part]
 Respuesta: De ninguna manera,
 porque el fin de todas las palabras es llevar a las personas a la gran Palabra,
 Jesucristo, y entonces se cumple la promesa de Dios, según las Escrituras,
@@ -219,12 +222,14 @@ Dios mediante la luz de Su Palabra y Espíritu en sus corazones,
 menos necesidad tendrán de medios exteriores.
 Porque el profeta escribe:
 
+[quote.scripture, , Isaías 16:19-20]
+____
 "`El sol nunca más te servirá de luz para el día,
 ni el resplandor de la luna te alumbrará; sino que el Señor te será por luz perpetua,
 y el Dios tuyo por tu gloria.
 No se pondrá jamás tu sol, ni menguará tu luna: porque te será el Señor por luz perpetua,
-y los días de tu luto serán acabados.`"^
-footnote:[Isaías 60:19-20 RV1602P]
+y los días de tu luto serán acabados.`"
+____
 
 Todos sostienen esto como una promesa del Evangelio, y en general,
 se entiende que aquí el sol y la luna representan
